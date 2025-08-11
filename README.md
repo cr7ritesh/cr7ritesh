@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a passionate developer focused on building i
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="left" style="background-color:white; padding:10px; border-radius:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" /
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="SQL" />
