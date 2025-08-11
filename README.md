@@ -8,11 +8,15 @@ Welcome to my GitHub profile! I’m a passionate developer focused on building i
 
 - 📍 Based in United Kingdom
 - 💼 Currently: Joint MSc in Data Science and AI from University of Birmingham and IIT Madras. Open to opportunities and potential collaborations!
-- 🛠️ Main Skills: Python, SQL, AI Applications
 - 🌱 Currently learning: CUDA, Model Deployment techniques
 - 📫 Reach me at: manchesteritesh@gmail.com
 
 ---
+
+## Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+          
 
 
 ## 🎓 Education
