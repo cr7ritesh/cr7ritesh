@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a passionate developer focused on building i
 ---
 
 ## Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<i class="devicon-python-plain-wordmark colored"></i>
 
           
 
